@@ -1,0 +1,12 @@
+source_student,target_student,interaction_count,relation_type
+STU_00001,STU_00002,8,study_together
+STU_00001,STU_00003,4,peer_support
+STU_00002,STU_00004,5,study_together
+STU_00003,STU_00004,3,discuss_assignment
+STU_00003,STU_00005,2,peer_support
+STU_00004,STU_00006,6,study_together
+STU_00007,STU_00008,4,study_together
+STU_00007,STU_00009,3,peer_support
+STU_00008,STU_00010,2,discuss_assignment
+STU_00009,STU_00010,5,study_together
+STU_00011,STU_00012,1,peer_support
